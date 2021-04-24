@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/* N1 */
 
 public class Uri1080 {
     public static void main(String[] args) {
