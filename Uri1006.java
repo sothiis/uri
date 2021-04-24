@@ -15,19 +15,5 @@ public class Uri1006 {
 
         entrada.close();
 
-        //colocar os imports primeiro
-        //depois do import que está lá
-        //buscar o códdigo que está dentro do main
-        //não por as chaves
-
-        //n - precisa por 
-        
-
-        //calcular a media 
-
-
-        //não pode usar o systout
-
-
     }
 }
